@@ -45,8 +45,10 @@ const ContactMe = () => {
                     height={24} // Must use pixel value
                     className="mr-4"
                 />
-                <a href="https://mywebsite.com" className="underline" target="_blank" rel="noopener noreferrer">
-                    https://mywebsite.com
+                <a
+                    href="https://cv-vanness-wuxk.vercel.app"
+                    className="underline" target="_blank" rel="noopener noreferrer">
+                    My Website
                 </a>
             </div>
 
@@ -58,8 +60,11 @@ const ContactMe = () => {
                     height={24} // Must use pixel value
                     className="mr-4"
                 />
-                <a href="https://github.com" className="underline" target="_blank" rel="noopener noreferrer">
-                    https://github.com
+                <a
+                    // href="https://github.com"
+                    href="https://github.com/Tarsoe"
+                    className="underline" target="_blank" rel="noopener noreferrer">
+                    My Git
                 </a>
             </div>
 
