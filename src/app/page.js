@@ -132,10 +132,10 @@ export default function Home() {
           {/* </div> */}
         </div>
         {/* Cover Letter Link outside, positioned independently */}
-        <div className="fixed top-20 right-2">
+        <div className="fixed top-20 right-4">
           <p>Please click the link below</p>
           <p>to see the Cover Letter</p>
-          <a className="underline text-blue-500 hover:text-blue-300" target='blank' href="https://shorturl.at/pxZLr">Cover Letter</a>
+          <a className="underline text-blue-500 hover:text-blue-300" target='blank' href="https://docs.google.com/document/d/19aXWsij80NwSENu3NRiPaiLzRGd1ImF6iC4wQxVq3AY/edit?usp=sharing">Cover Letter</a>
         </div>
       </div>
 
