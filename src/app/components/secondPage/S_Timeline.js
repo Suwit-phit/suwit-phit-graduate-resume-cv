@@ -230,9 +230,9 @@ const S_Timeline = () => {
                 <hr className="border-t-2 border-[#eff0f2] mx-2 -mt-3 w-[535px] rounded" />
             </div>
 
-            <div className=" -mb-2 text-blue-500 font-bold text-sm flex items-center space-x-2">
+            <div className="-mb-2 text-blue-500 font-bold text-sm flex items-center space-x-4">
                 <Image src="/second-page/referral.png" alt="education.png" width={30} height={30} />
-                <span className=' tracking-[10px] text-xl font-extrabold text-[#5ba7d1]'>REFERENCE</span>
+                <span className='tracking-[10px] text-xl font-extrabold text-[#5ba7d1]'>REFERENCE</span>
             </div>
 
             <div className="container mx-auto p-6 mt-[0px]">
@@ -242,7 +242,7 @@ const S_Timeline = () => {
                             {/* Timeline Container */}
                             <div className="relative flex flex-col items-center">
                                 {/* Timeline Line */}
-                                <div className="absolute h-[112px] mt-4 w-1 bg-[#335384]"></div>
+                                <div className="absolute h-[118px] mt-4 w-1 bg-[#335384]"></div>
 
                                 {/* Timeline Points */}
                                 <div className="relative mt-[6px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white mb-10 "></div>
@@ -254,7 +254,7 @@ const S_Timeline = () => {
                                 {/* <div className="relative mt-[168px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div> */}
 
                                 {/* T-shaped horizontal line */}
-                                <div className="relative rounded w-4 h-1 bg-[#335384] mt-[63px]"></div>
+                                <div className="relative rounded w-4 h-1 bg-[#335384] mt-[68px]"></div>
                             </div>
                         </div>
                     </div>
@@ -262,10 +262,11 @@ const S_Timeline = () => {
                     {/* <div className="mt-4 grid grid-cols-2 gap-8"> */}
                     {/* <div className=" grid grid-cols-2 gap-0 bg-lime-500"> */}
                     {/* First reference */}
-                    <div className=' ml-2'>
+                    <div className='ml-2 w-[350px]'>
                         <h3 className="font-semibold text-lg">Assistant Prof. Dr. Nacha Chondamrongkul</h3>
-                        <p className="text-blue-500">Dean</p>
-                        <ul className="mt-2 text-sm text-gray-600 space-y-1">
+                        <p className="font-semibold text-[#5ba7d1]">Dean</p>
+                        {/* <ul className="mt-2 text-sm text-gray-600 space-y-1"> */}
+                        <ul className="mt-2 space-y-1">
                             <li>• Tel: +66 (0) 5391 6757</li>
                             <li>• E-mail: nacha.cho@mfu.ac.th</li>
                         </ul>
@@ -273,8 +274,9 @@ const S_Timeline = () => {
                     {/* Second reference */}
                     <div className=''>
                         <h3 className="font-semibold text-lg">Anna Adams</h3>
-                        <p className="text-blue-500">Sunshine Orchard Administration</p>
-                        <ul className="mt-2 text-sm text-gray-600 space-y-1">
+                        <p className="font-semibold text-[#5ba7d1]">Sunshine Orchard Administration</p>
+                        {/* <ul className="mt-2 text-sm text-gray-600 space-y-1"> */}
+                        <ul className="mt-2 space-y-1">
                             <li>• Tel: +66 (0) 828 841 437</li>
                             <li>• E-mail: sunshineorr.hardcenter@gmail.com</li>
                         </ul>

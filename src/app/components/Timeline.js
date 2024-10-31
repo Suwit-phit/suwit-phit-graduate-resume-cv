@@ -23,6 +23,16 @@ const timelineData = [
         ],
     },
     {
+        title: "Agoda Tech Camp Day",
+        // location: "Mae Fah Luang University, Chiang Rai",
+        // date: "Feb 2024 - present",
+        date: "Science and Technology Park, Chiang Mai University | September 11-12, 2024, 1:00 p.m. - 4:30 p.m.",
+        description: [
+            "Attended a workshop led by Agoda computer engineers on Create an easy app with Line Chat Bot, focusing on building user-friendly applications with CodeSandbox.",
+            "Used: Code Creator, Line Chat Bot, Node.js, SQLite3, LINE App, LINE Developers Console, CodeSandbox, Google Cloud Functions, Git (version control and code collaboration)",
+        ],
+    },
+    {
         title: "MovieMM",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
@@ -42,16 +52,16 @@ const timelineData = [
             "Used: Vue, Nuxt, Node, Javascript, MySQL, Git for version control and Code Collaboration",
         ],
     },
-    {
-        title: "CodecrabMM",
-        // location: "Mae Fah Luang University, Chiang Rai",
-        // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | Jan 2022- May 2022",
-        description: [
-            "Developed a product rating platform enabling users to rate and review products such as clothes, shoes, and accessories, with personalized recommendations based on user preferences.",
-            "Used: Figma, Flutter, Firebase, Dart, Firestore Database, REST APIs, Google Cloud Functions, OAuth for authentication",
-        ],
-    },
+    // {
+    //     title: "CodecrabMM",
+    //     // location: "Mae Fah Luang University, Chiang Rai",
+    //     // date: "Feb 2024 - present",
+    //     date: "Mae Fah Luang University, Chiang Rai | Jan 2022- May 2022",
+    //     description: [
+    //         "Developed a product rating platform enabling users to rate and review products such as clothes, shoes, and accessories, with personalized recommendations based on user preferences.",
+    //         "Used: Figma, Flutter, Firebase, Dart, Firestore Database, REST APIs, Google Cloud Functions, OAuth for authentication",
+    //     ],
+    // },
     // Add more items similarly...
 ];
 
@@ -76,8 +86,8 @@ const Timeline = () => {
 
                             {/* Last Timeline Point with Hollow Circle */}
                             <div className="relative mt-[155px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
-                            <div className="relative mt-[169px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
-                            <div className="relative mt-[195px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
+                            <div className="relative mt-[140px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
+                            <div className="relative mt-[252px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
                             <div className="relative mt-[168px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
 
                             {/* T-shaped horizontal line */}
@@ -85,10 +95,10 @@ const Timeline = () => {
                         </div>
                     </div>
                 </div>
-                {/* <div className="flex-1 w-64 bg-slate-300 h-[980px]"> */}
+                {/* <div className="flex-1 bg-slate-300 h-[980px]"> */}
                 <div className="flex-1 w-64 h-[980px]">
                     {/* <div className="container mx-auto px-4 py-8 -mt-3"> */}
-                    <div className="container mx-auto -mt-1.5 -ml-2">
+                    <div className="container w-[580px] -mt-1.5 -ml-2">
                         {timelineData.map((item, index) => (
                             // <div key={index} className="mb-8 ml-4">
                             <div key={index} className="mb-4 ml-4">
