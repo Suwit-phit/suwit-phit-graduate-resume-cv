@@ -52,7 +52,7 @@ const ContactMe = () => {
                     // href="https://nextjs-netlify-ktc-188742335049.us-central1.run.app/"
                     // href="https://nextjs-l-188742335049.us-central1.run.app/"
                     // href="https://nextjs-marketingflow-188742335049.us-central1.run.app"
-                    // href="https://nextjs-gdkgroup-188742335049.us-central1.run.app"
+                    href="https://nextjs-gdkgroup-188742335049.us-central1.run.app"
                     className="underline" target="_blank" rel="noopener noreferrer">
                     My Website
                 </a>
