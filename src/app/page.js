@@ -137,7 +137,8 @@ export default function Home() {
           <p>to see the Cover Letter</p>
           <a className="underline text-blue-500 hover:text-blue-300" target='blank'
             // href="https://docs.google.com/document/d/160Zd19GmuUn4um8VWZ8XTJYGrEDsKVwkBbmDXsQGBbs/edit?usp=sharing" //! KTC
-            href="https://docs.google.com/document/d/1Bw5ZL6-K72zVK475_4HK-7xv2mj9Sp1-FR3GUYzT6sA/edit?usp=sharing" //! Lapaschawal
+            // href="https://docs.google.com/document/d/1Bw5ZL6-K72zVK475_4HK-7xv2mj9Sp1-FR3GUYzT6sA/edit?usp=sharing" //! Lapaschawal
+            href="https://docs.google.com/document/d/1B-Aji8mXRmcYDV2PJCwsoshwRVo73mcTMOLGFN00LSE/edit?usp=sharing" //! marketing flow
           >Cover Letter</a>
         </div>
       </div>
