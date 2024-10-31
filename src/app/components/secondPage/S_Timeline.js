@@ -263,12 +263,13 @@ const S_Timeline = () => {
                     {/* <div className=" grid grid-cols-2 gap-0 bg-lime-500"> */}
                     {/* First reference */}
                     <div className='ml-2 w-[350px]'>
-                        <h3 className="font-semibold text-lg">Assistant Prof. Dr. Naw Sheerlittanula</h3>
+                        <h3 className="font-semibold text-lg">Assistant Prof. Dr. Nacha Chondamrongkul</h3>
+                        {/* <h3 className="font-semibold text-lg">Assistant Prof. Dr. Naw Sheerlittanula</h3> */}
                         <p className="font-semibold text-[#5ba7d1]">Dean</p>
                         {/* <ul className="mt-2 text-sm text-gray-600 space-y-1"> */}
                         <ul className="mt-2 space-y-1">
-                            <li>• Tel: +66 (0) 639 684 495</li>
-                            <li>• E-mail: sheerlit639@gmail.com</li>
+                            <li>• Tel: +66 (0) 5391 6757</li>
+                            <li>• E-mail: nacha.cho@mfu.ac.th</li>
                         </ul>
                     </div>
                     {/* Second reference */}
