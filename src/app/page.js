@@ -142,7 +142,7 @@ export default function Home() {
             // href="https://docs.google.com/document/d/1Ooij3IatD4aA0lxe4ilvVaQCDJcohyBC2QMQjzBeGSM/edit?usp=sharing" //! GDK Group
             // href="https://docs.google.com/document/d/1ylKNkYRrEneI4YGZj18wbeSeFosVbxkQX1VCaOkUMW8/edit?usp=sharing" //! Huawei
             // href="https://docs.google.com/document/d/163GxeRrus9Hsgk8OUNUjg3uDrCDObPKx_SYkfvI7fus/edit?usp=sharing" //! Agoda
-            href="https://docs.google.com/document/d/163GxeRrus9Hsgk8OUNUjg3uDrCDObPKx_SYkfvI7fus/edit?usp=sharing" //! HD
+            href="https://docs.google.com/document/d/10vjlslSHJBOGefWtu7UKoug2SnrZZ-yh_Xn-44lhHXU/edit?usp=sharing" //! HD
           >Cover Letter</a>
         </div>
       </div>
