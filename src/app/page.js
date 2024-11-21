@@ -144,9 +144,12 @@ export default function Home() {
             // href="https://docs.google.com/document/d/163GxeRrus9Hsgk8OUNUjg3uDrCDObPKx_SYkfvI7fus/edit?usp=sharing" //! Agoda
             // href="https://docs.google.com/document/d/10vjlslSHJBOGefWtu7UKoug2SnrZZ-yh_Xn-44lhHXU/edit?usp=sharing" //! HD
             // href="https://docs.google.com/document/d/1kGSYZJTeQZP-VwBA0H2qI4mEAclVq015iuk8HayZ4G8/edit?usp=sharing" //! Ant HR
+            // href="
+            // https://docs.google.com/document/d/1XHU9-qOagnqckf2JbCebn_fVIugqSdzOxsycXhg-e14/edit?usp=sharing
+            // " //! Ketshopweb
             href="
-            https://docs.google.com/document/d/1XHU9-qOagnqckf2JbCebn_fVIugqSdzOxsycXhg-e14/edit?usp=sharing
-            " //! Ketshopweb
+            https://docs.google.com/document/d/16FJ-kpr2ksV1AgaVBaxDYApQ-f8z8viGgFzn5khsTJk/edit?usp=sharing
+            " //! No specific company
           >Cover Letter</a>
         </div>
       </div>
