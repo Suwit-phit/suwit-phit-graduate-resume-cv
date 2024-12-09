@@ -63,8 +63,11 @@ const ContactMe = () => {
                     // href="
                     // https://nextjs-ketshopweb-188742335049.us-central1.run.app/
                     // "
+                    // href="
+                    // https://resume-cv-188742335049.us-central1.run.app
+                    // "
                     href="
-                    https://resume-cv-188742335049.us-central1.run.app
+                    https://nextjs-outsourcify-188742335049.us-central1.run.app/
                     "
                     className="underline" target="_blank" rel="noopener noreferrer">
                     My Website
