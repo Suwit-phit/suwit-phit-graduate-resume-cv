@@ -147,9 +147,12 @@ export default function Home() {
             // href="
             // https://docs.google.com/document/d/1XHU9-qOagnqckf2JbCebn_fVIugqSdzOxsycXhg-e14/edit?usp=sharing
             // " //! Ketshopweb
+            // href="
+            // https://docs.google.com/document/d/16FJ-kpr2ksV1AgaVBaxDYApQ-f8z8viGgFzn5khsTJk/edit?usp=sharing
+            // " //! No specific company
             href="
-            https://docs.google.com/document/d/16FJ-kpr2ksV1AgaVBaxDYApQ-f8z8viGgFzn5khsTJk/edit?usp=sharing
-            " //! No specific company
+            https://docs.google.com/document/d/1PU79SWuWau7V5vsUvll8NuvZdxv2dsqOoqm9lFD_T-g/edit?usp=sharing
+            " //! Outsourcify company
           >Cover Letter</a>
         </div>
       </div>
