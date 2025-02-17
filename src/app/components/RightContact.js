@@ -12,7 +12,7 @@ export default function RightContact() {
                 <hr className="border-t-2 border-[#eff0f2] my-2 w-[353px] rounded" />
             </div>
             <p className=' text-lg'>
-                I am an independent and self-motivated university student with extensive volunteering and working experience, I am a graduated Software Engineering student from Mae Fah Luang University. I am a committed and hard-working person who is always actively taking part in university activities, classroom, group work, volunteering, and investing my time and effort in developing excellent relationships with my classmates.
+                I am an independent and self-motivated person with extensive volunteering and working experience, I am a graduated Software Engineering student from Mae Fah Luang University. I am a committed and hard-working person who is always actively taking part in university activities, classroom, group work, volunteering, and investing my time and effort in developing excellent relationships with my classmates.
             </p>
             <p className="mt-2 text-lg">
                 Looking to gain further real-world experience where I can get the opportunities to prove my abilities and the things that I have learned in class by accepting challenges, fulfilling organizational goals, and climbing the career ladder through continuous learning and commitment.
