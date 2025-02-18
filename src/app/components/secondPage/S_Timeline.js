@@ -65,7 +65,7 @@ const educationData = [
         title: "Bachelor degree of Software Engineering",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | Jun 2021 - present",
+        date: "Mae Fah Luang University, Chiang Rai | Jun 2021 - 2024",
         description: [
             "Studied subjects: Web, Mobile & Platform development, Software Project Management, Software Business Entrepreneurship, Enterprise Architecture and Digital Strategy, SRAS, etc.",
         ],
