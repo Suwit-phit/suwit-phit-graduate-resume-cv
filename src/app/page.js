@@ -156,8 +156,11 @@ export default function Home() {
             // href="
             // https://docs.google.com/document/d/16FJ-kpr2ksV1AgaVBaxDYApQ-f8z8viGgFzn5khsTJk/edit?usp=sharing
             // " //! General company
+            // href="
+            // https://docs.google.com/document/d/1DsZ0eOvTFFTrSEZ5JFlzoOwuMKcaVdPKkfvoaQQ6zoI/edit?usp=sharing
+            // " //! already graduated
             href="
-            https://docs.google.com/document/d/1DsZ0eOvTFFTrSEZ5JFlzoOwuMKcaVdPKkfvoaQQ6zoI/edit?usp=sharing
+            https://docs.google.com/document/d/1kHkLOe-we75FX3vu3RB3wV7zU5bNw8ry3j4NjIC_2H0/edit?usp=sharing
             " //! already graduated
           >Cover Letter</a>
         </div>
