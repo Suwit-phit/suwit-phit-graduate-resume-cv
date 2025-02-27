@@ -73,8 +73,11 @@ const ContactMe = () => {
                     // href="
                     // https://nextjs-vercel-three-tau.vercel.app/
                     // "
+                    // href="
+                    // https://next-vercel-graduated.vercel.app/
+                    // "
                     href="
-                    https://next-vercel-graduated.vercel.app/
+                    https://suwit-phit-graduate-resume-cv.vercel.app/
                     "
                     className="underline" target="_blank" rel="noopener noreferrer">
                     My Website
