@@ -6,7 +6,8 @@ export default function RightContact() {
         // <div className="flex mt-[60px] ml-1 flex-col bg-emerald-400">
         <div className="flex mt-[60px] ml-1 flex-col ">
             <div>
-                <h1 className="text-4xl font-bold text-[#335384]">SAW TAR SO GAY HTOO HTOO</h1>
+                {/* <h1 className="text-4xl font-bold text-[#335384]">SAW TAR SO GAY HTOO HTOO</h1> */}
+                <h1 className="text-4xl font-bold text-[#335384] uppercase">suwit phithakphatphon</h1>
                 <p className=" tracking-[10px] mt-2 text-[#5ba7d1] text-xl font-semibold">PERSONAL PROFILE</p>
                 {/* <hr className="border-t-2 border-gray-300 my-2 rounded" /> */}
                 <hr className="border-t-2 border-[#eff0f2] my-2 w-[353px] rounded" />

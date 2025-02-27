@@ -23,7 +23,8 @@ const ContactMe = () => {
                     className="mr-4"
                 />
 
-                <span>6431503130@lamduan.mfu.ac.th</span>
+                {/* <span>6431503130@lamduan.mfu.ac.th</span> */}
+                <span>suwit.phithakphatphon@gmail.com</span>
             </div>
 
             <div className="mb-4 flex items-center">
