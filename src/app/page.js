@@ -97,7 +97,7 @@ export default function Home() {
     <>
       <div className="flex justify-center items-center p-4">
         {/* <div className="relative shadow-[-10px_5px_21px_15px_rgba(0,0,0,0.3)] flex w-[1296px] h-[843px]"> */}
-        <div className="relative shadow-[-10px_10px_21px_15px_rgba(0,0,0,0.3)] flex w-[1000px] h-[1500px]">
+        <div className="relative shadow-[-10px_10px_21px_15px_rgba(0,0,0,0.3)] flex w-[1000px] h-[1570px]">
           {/* Left Side with Color 335384 */}
           {/* <div className="absolute left-0 top-0 bottom-0 w-[520px] -ml-4 bg-[#335384] z-10"> */}
           <div className="absolute left-0 top-0 bottom-0 w-[380px] -ml-4 bg-[#335384] z-10">

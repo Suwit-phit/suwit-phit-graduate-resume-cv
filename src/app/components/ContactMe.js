@@ -35,7 +35,7 @@ const ContactMe = () => {
                     height={24} // Must use pixel value
                     className="mr-4"
                 />
-                <span>093-443-8586</span>
+                <span>(+66) 082-454-4838</span>
             </div>
 
             <div className="mb-4 flex items-center">

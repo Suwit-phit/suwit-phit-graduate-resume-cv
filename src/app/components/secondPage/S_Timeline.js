@@ -6,10 +6,10 @@ import { UserGroupIcon } from '@heroicons/react/solid';
 
 const timelineData = [
     {
-        title: "MFU - ATA IT project (Loyalty program)",
+        title: "Loyalty program project",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | August 2022- December 2022",
+        date: "Vocational center | August 2022 - December 2022",
         description: [
             "Develop an application Loyalty Program that enables employees to collect points for participating in events.",
             "Used: Figma, Next, UI-Library, Node, Javascript, MongoDB, Git for version control and Code Collaboration",
@@ -20,10 +20,10 @@ const timelineData = [
         title: "MLII",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | Aug 2022-Nov 2022",
+        date: "Vocational center | Aug 2022 - Nov 2022",
         description: [
             "Add subtitle to the Professor move on the Youtube Channel",
-            "Used: MFU Academy Studio, studio.youtube",
+            "Used: Academy Studio, studio.youtube",
         ],
 
     },
@@ -31,9 +31,9 @@ const timelineData = [
         title: "Student Union Member",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | March 2022-Aug 2022",
+        date: "Bootcamp | March 2022 - Aug 2022",
         description: [
-            "A part of the student union group in Mae Fah Luang University, responsible for preparing and taking part in the school's activities",
+            "A part of the student union group in Hackathon bootcamp, responsible for preparing and taking part in the school's activities",
         ],
 
     },
@@ -41,9 +41,9 @@ const timelineData = [
         title: "Music Leader and Teacher",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Sunshine orchard learning center, Mae Song | Jun 2022- July 2022",
+        date: "Sunshine orchard learning center | Jun 2022- July 2022",
         description: [
-            "Interned as a teacher and an music leader, taught the younger pupils music and English",
+            "Volunteer as a teacher and an music leader, taught the younger pupils music and English",
             "Managed all social media accounts and newsletter writer for the school's organization",
         ],
 
@@ -52,7 +52,7 @@ const timelineData = [
         title: "Volunteer and Internship",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Tao Clinic, Mae Sot | Sep 2019",
+        date: "Mae Tao Clinic | Sep 2019",
         description: [
             "Doing volunteer and internship at Mae Tao Clinic as a GED graduated student in the Admin department.",
         ],
@@ -62,10 +62,10 @@ const timelineData = [
 
 const educationData = [
     {
-        title: "Bachelor degree of Software Engineering",
+        title: "Fullstack Training",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | Jun 2021 - 2024",
+        date: "CodeCamp | Jun 2021 - 2024",
         description: [
             "Studied subjects: Web, Mobile & Platform development, Software Project Management, Software Business Entrepreneurship, Enterprise Architecture and Digital Strategy, SRAS, etc.",
         ],
@@ -75,7 +75,7 @@ const educationData = [
         title: "Vocational and mechanical School",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "GAP Organization, Mae Ramat| April 2019",
+        date: "GAP Organization | April 2019",
         description: [
             "Studied subjects: Science, Mathematics, Physic, tech-design, Thai, Burmese, Karen, Geography, and History",
         ],
@@ -85,7 +85,7 @@ const educationData = [
         title: "GED Diploma",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "BEAM Education Foundation| Apr 2019 - Jun 2018",
+        date: "Wisdom Education Foundation | Apr 2019 - Jun 2018",
         description: [
             "Studied 4 subjects: Science, Social Studies, Mathematics, and Language Arts",
             "GED (General Education Development) US High School Diploma, GPA 3.14",
@@ -122,16 +122,16 @@ const S_Timeline = () => {
                             <div className="relative flex flex-col items-center">
                                 {/* Timeline Line */}
                                 {/* <div className="absolute h-full w-1 bg-blue-800"></div> */}
-                                <div className="absolute h-[780px] w-1 bg-[#335384]"></div>
+                                <div className="absolute h-[722px] w-1 bg-[#335384]"></div>
 
                                 {/* Timeline Points */}
                                 <div className="relative z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white mb-10 "></div>
 
                                 {/* Last Timeline Point with Hollow Circle */}
-                                <div className="relative mt-[155px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
+                                <div className="relative mt-[128px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
+                                <div className="relative mt-[111px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
                                 <div className="relative mt-[113px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
-                                <div className="relative mt-[112px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
-                                <div className="relative mt-[196px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
+                                <div className="relative mt-[168px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div>
 
                                 {/* T-shaped horizontal line */}
                                 <div className="relative rounded w-4 h-1 bg-[#335384] mt-[82px]"></div>
@@ -172,7 +172,7 @@ const S_Timeline = () => {
             </div>
 
             {/* <div className="flex mt-9 items-center space-x-4 bg-yellow-600"> */}
-            <div className="flex -mt-3 items-center space-x-4">
+            <div className="flex -mt-10 items-center space-x-4">
                 <Image src="/second-page/education.png" alt="education.png" width={30} height={30} />
                 <span className=' tracking-[10px] text-xl font-extrabold text-[#5ba7d1]'>EDUCATIONAL HISTORY</span>
             </div>
@@ -242,7 +242,7 @@ const S_Timeline = () => {
                             {/* Timeline Container */}
                             <div className="relative flex flex-col items-center">
                                 {/* Timeline Line */}
-                                <div className="absolute h-[118px] mt-4 w-1 bg-[#335384]"></div>
+                                <div className="absolute h-[132px] mt-4 w-1 bg-[#335384]"></div>
 
                                 {/* Timeline Points */}
                                 <div className="relative mt-[6px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white mb-10 "></div>
@@ -254,7 +254,7 @@ const S_Timeline = () => {
                                 {/* <div className="relative mt-[168px] z-10 w-4 h-4 border-4 border-[#335384] rounded-full bg-white"></div> */}
 
                                 {/* T-shaped horizontal line */}
-                                <div className="relative rounded w-4 h-1 bg-[#335384] mt-[68px]"></div>
+                                <div className="relative rounded w-4 h-1 bg-[#335384] mt-[84px]"></div>
                             </div>
                         </div>
                     </div>
@@ -262,24 +262,24 @@ const S_Timeline = () => {
                     {/* <div className="mt-4 grid grid-cols-2 gap-8"> */}
                     {/* <div className=" grid grid-cols-2 gap-0 bg-lime-500"> */}
                     {/* First reference */}
-                    <div className='ml-2 w-[350px]'>
-                        <h3 className="font-semibold text-lg">Assistant Prof. Dr. Nacha Chondamrongkul</h3>
+                    <div className='ml-2 w-[307px]'>
+                        <h3 className="font-semibold text-lg">Naw Grace Paw</h3>
                         {/* <h3 className="font-semibold text-lg">Assistant Prof. Dr. Naw Sheerlittanula</h3> */}
                         <p className="font-semibold text-[#5ba7d1]">Dean</p>
                         {/* <ul className="mt-2 text-sm text-gray-600 space-y-1"> */}
-                        <ul className="mt-2 space-y-1">
-                            <li>• Tel: +66 (0) 5391 6757</li>
-                            <li>• E-mail: nacha.cho@mfu.ac.th</li>
+                        <ul className="mt-7 space-y-1">
+                            <li>• Tel: +66 (0) 828 841 437</li>
+                            <li>• E-mail: nawgracepaw1961@gmail.com</li>
                         </ul>
                     </div>
                     {/* Second reference */}
                     <div className=''>
-                        <h3 className="font-semibold text-lg">Anna Adams</h3>
-                        <p className="font-semibold text-[#5ba7d1]">Sunshine Orchard Administration</p>
+                        <h3 className="font-semibold text-lg">Saifon Phaisutthi</h3>
+                        <p className="font-semibold text-[#5ba7d1]">Applied Digital Technology Supervisor</p>
                         {/* <ul className="mt-2 text-sm text-gray-600 space-y-1"> */}
-                        <ul className="mt-2 space-y-1">
-                            <li>• Tel: +66 (0) 828 841 437</li>
-                            <li>• E-mail: sunshineorr.hardcenter@gmail.com</li>
+                        <ul className="mt-7 space-y-1">
+                            <li>• Tel: +66 (0) 613 209 143</li>
+                            <li>• E-mail: saifon.phaisutthi@gmail.com</li>
                         </ul>
                     </div>
                     {/* </div> */}

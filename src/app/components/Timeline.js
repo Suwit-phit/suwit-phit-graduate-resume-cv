@@ -3,22 +3,22 @@ import React from 'react';
 
 const timelineData = [
     {
-        title: "MFU-Senior Project 1 & 2 (ATA IT - Talent Pool Database)",
+        title: "Software Engineering (volunteer)",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | Feb 2024- present",
+        date: "Applied Digital Technology | Feb 2021 - Feb 2025",
         description: [
-            "Developed a Talent Pool Database platform for ATA IT, enabling efficient management, match and search of employee profiles and skillsets",
+            "Developed a Talent Pool Database platform for organization, enabling efficient management, match and search of employee profiles and skillsets",
             "Used: Figma, React, TailwindCSS, Java-Spring Boot, Typescript, PostgreSQL, Git for version control and Code Collaboration",
         ],
     },
     {
-        title: "School of Applied Digital Technology",
+        title: "Web Application Developer (volunteer)",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | August 17-18, 2024",
+        date: "KTP compassion | March 2025 - present",
         description: [
-            "Participated in hackathon competition at Mae Fah Luang University.",
+            "Managed web app for organization and for hackathon competition.",
             "Used: Vue, Nuxt, Node, Javascript, MongoDB, Git for version control and Code Collaboration",
         ],
     },
@@ -26,27 +26,27 @@ const timelineData = [
         title: "Agoda Tech Camp Day",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Science and Technology Park, Chiang Mai University | September 11-12, 2024, 1:00 p.m. - 4:30 p.m.",
+        date: "Science and Technology Park | September 11-12, 2024, 1:00 p.m. - 4:30 p.m.",
         description: [
             "Attended a workshop led by Agoda computer engineers on Create an easy app with Line Chat Bot, focusing on building user-friendly applications with CodeSandbox.",
             "Used: Code Creator, Line Chat Bot, Node.js, SQLite3, LINE App, LINE Developers Console, CodeSandbox, Google Cloud Functions, Git (version control and code collaboration)",
         ],
     },
     {
-        title: "MovieMM",
+        title: "Mobile developer (MovieMM)",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | January 2023 - May 2023",
+        date: "Freelance | January 2023 - May 2023",
         description: [
-            "Developed a review Movie platform (CodecrabMM), designed to help user rate and improve their desiring on what they watch.",
+            "Developed a review Movie platform, designed to help user rate and improve their desiring on what they watch.",
             "Used: Figma, Flutter, Firebase, Dart, REST APIs, Git for version control and Code Collaboration",
         ],
     },
     {
-        title: "MFU CITS (part-time)",
+        title: "CITS (part-time)",
         // location: "Mae Fah Luang University, Chiang Rai",
         // date: "Feb 2024 - present",
-        date: "Mae Fah Luang University, Chiang Rai | Feb 2023- present",
+        date: "H3 Academy | Feb 2023 - Dec 2023",
         description: [
             "Responsible for assisting with writing articles and posting them on the website",
             "Used: Vue, Nuxt, Node, Javascript, MySQL, Git for version control and Code Collaboration",
