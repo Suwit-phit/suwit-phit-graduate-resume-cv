@@ -103,7 +103,7 @@ const ContactMe = () => {
                 </a>
             </div>
 
-            <div className="mb-4 flex items-center">
+            {/* <div className="mb-4 flex items-center">
                 <Image
                     src="/facebook.png"
                     alt="Facebook"
@@ -121,7 +121,7 @@ const ContactMe = () => {
                         Tar Soegay
                     </a>
                 </div>
-            </div>
+            </div> */}
         </div>
     );
 };
